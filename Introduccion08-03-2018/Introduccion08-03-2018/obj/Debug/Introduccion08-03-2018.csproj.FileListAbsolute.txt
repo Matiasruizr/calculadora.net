@@ -1,0 +1,15 @@
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\App.g.cs
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018_MarkupCompile.cache
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018_MarkupCompile.lref
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\bin\Debug\Introduccion08-03-2018.exe.config
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\bin\Debug\Introduccion08-03-2018.exe
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\bin\Debug\Introduccion08-03-2018.pdb
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\MainWindow.baml
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.g.resources
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08_03_2018.Properties.Resources.resources
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.csproj.GenerateResource.Cache
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.exe
+C:\Users\cetecom\source\repos\Introduccion08-03-2018\Introduccion08-03-2018\obj\Debug\Introduccion08-03-2018.pdb
